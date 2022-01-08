@@ -1,0 +1,7 @@
+Le nombre de terrain tester est  20 
+Le nombre de fois ou le robot est sorti est 1 
+Ce qui fais une moyenne de  5 % 
+Le nombre de fois ou le robot est resté bloqué est 19 
+Ce qui fais une moyenne de  95 % 
+Le nombre de fois ou le robot a renconté un obstacle est 0 
+Ce qui fais une moyenne de  0 % 
