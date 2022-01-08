@@ -1,4 +1,4 @@
-CC=clang -Wall
+CHANGES HERE CC=clang -Wall
 
 PROGRAMMES=test_terrain test_robot robot_terrain curiosity curiosity-obs curiosity_perf curiosity-test
 
